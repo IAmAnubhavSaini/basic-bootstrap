@@ -24,7 +24,7 @@ module.exports = function(grunt) {
 /* I want sass to take care of SCSS and SASS files. */
     sass: {
       self: {
-        options: { 
+        options: {
           style: 'compressed',
           sourcemap: 'none'
         },
@@ -69,11 +69,11 @@ module.exports = function(grunt) {
 
   });
 
-  
+
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-sass');
-  grunt.loadNpmTasks('grunt-contrib-haml');
+  grunt.loadNpmTasks('grunt-haml2html');
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
 
