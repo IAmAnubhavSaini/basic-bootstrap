@@ -6,9 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords":"bootstrap, html, css, javascript, scss, basic, application, boilerplate, haml",
+  "keywords": "bootstrap, html, css, javascript, scss, basic, application, boilerplate, haml",
   "author": "Anubhav Saini",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "grunt": "*",
     "grunt-contrib-clean": "*",
