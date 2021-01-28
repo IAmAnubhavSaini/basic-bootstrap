@@ -11,3 +11,7 @@ This is very basic place to start hand made application building.
 ## LICENSE
 
 > MIT
+
+## NOTICE
+
+This is defunct now.
